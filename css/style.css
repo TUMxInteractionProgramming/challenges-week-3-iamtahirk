@@ -329,6 +329,7 @@ li img {
 }
 
 #emojis {
+    display: none;
     position: absolute;
     height: 300px;
     width: 235px;
